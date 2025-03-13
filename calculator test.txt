@@ -1,0 +1,46 @@
+Calculator Menu:
+1. Perform Calculation
+2. View History
+3. Exit
+Enter your choice: 1
+Enter calculation (e.g., 2 + 3, power(2,3), sqrt(16), abs(-5), round(3.14)): 2 + 3
+Result: 5.0
+
+Calculator Menu:
+1. Perform Calculation
+2. View History
+3. Exit
+Enter your choice: 1
+Enter calculation (e.g., 2 + 3, power(2,3), sqrt(16), abs(-5), round(3.14)): 5 - 2
+Result: 3.0
+
+Calculator Menu:
+1. Perform Calculation
+2. View History
+3. Exit
+Enter your choice: 1
+Enter calculation (e.g., 2 + 3, power(2,3), sqrt(16), abs(-5), round(3.14)): 10 * 4
+Result: 40.0
+
+Calculator Menu:
+1. Perform Calculation
+2. View History
+3. Exit
+Enter your choice: 1
+Enter calculation (e.g., 2 + 3, power(2,3), sqrt(16), abs(-5), round(3.14)): 20 / 5
+Result: 4.0
+
+Calculator Menu:
+1. Perform Calculation
+2. View History
+3. Exit
+Enter your choice: 1
+Enter calculation (e.g., 2 + 3, power(2,3), sqrt(16), abs(-5), round(3.14)): 15 % 7
+Result: 1.0
+
+Calculator Menu:
+1. Perform Calculation
+2. View History
+3. Exit
+Enter your choice: 3
+Exiting Calculator. Goodbye!S
